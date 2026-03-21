@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LMS1587CSX-ADJ_NOPB
+D 3A Fixed / Adjustable Output Linear Regulator
+K
+F https://www.ti.com/lit/ds/symlink/lms1587.pdf?ts=1630312894265&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FLMS1587
+$ENDCMP
+#
+#End Doc Library

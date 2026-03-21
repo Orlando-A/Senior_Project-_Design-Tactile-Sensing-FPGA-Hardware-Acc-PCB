@@ -1,4 +1,4 @@
-27243816325177562
+27273939072623624
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -74697,8 +74697,22 @@ Connector
 12
 12
 My_footprints
+KTT0003B
+
+LMS1587ISX-3.3/NOPB 
+0
+4
+4
+My_footprints
 LM1085ISX33NOPB
 KTT0003B_2022
+Integrated Circuit
+0
+5
+5
+My_footprints
+LMS1587CSXADJNOPB
+LMS1587CSX-ADJ/NOPB-1
 Integrated Circuit
 0
 5
@@ -98748,6 +98762,111 @@ rotary encoder illuminated switch vertical
 0
 9
 8
+SamacSys_Parts
+3299W1251LF
+3299W-1-251LF-1
+Variable Resistor
+0
+3
+3
+SamacSys_Parts
+513380574
+51338-0574-2
+Connector
+0
+54
+54
+SamacSys_Parts
+ERA2AED122X
+ERA2A_(0402)
+Resistor
+0
+2
+2
+SamacSys_Parts
+ERA6AEB101V
+ERA6A
+Resistor
+0
+2
+2
+SamacSys_Parts
+GH39P010001
+GH39P010001-2
+Switch
+0
+3
+3
+SamacSys_Parts
+HDRRA12W67P254_2X6_1524X254X503P
+10129382-912002BLF
+Connector
+0
+12
+12
+SamacSys_Parts
+KTT0003B
+
+LMS1587ISX-3.3/NOPB 
+0
+4
+4
+SamacSys_Parts
+LM1085ISX33NOPB
+KTT0003B_2022
+Integrated Circuit
+0
+5
+5
+SamacSys_Parts
+LMS1587CSXADJNOPB
+LMS1587CSX-ADJ/NOPB-1
+Integrated Circuit
+0
+5
+5
+SamacSys_Parts
+M22-7142542
+M22-7142542
+Connector
+0
+50
+50
+SamacSys_Parts
+NE555DR
+D (R-PDSO-G8)
+Integrated Circuit
+0
+8
+8
+SamacSys_Parts
+PJ-102AH
+PJ-102AH
+Connector
+0
+3
+3
+SamacSys_Parts
+QFN50P160X210X50-10N-D
+V101A2CN+1
+Integrated Circuit
+0
+10
+10
+SamacSys_Parts
+SOIC127P600X175-8N
+DCG8
+Integrated Circuit
+0
+8
+8
+SamacSys_Parts
+TO254P470X1028X1955-3P
+NDE0003B HEIGHT 4.7
+Transistor
+0
+3
+3
 Sensor
 ASAIR_AM2302_P2.54mm_Lead2.75mm_TabDown
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/AM2302.pdf
